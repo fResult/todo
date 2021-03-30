@@ -1,14 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "todos": [
+    {
+      "id": 1,
+      "task": "Eat cat",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "task": "Eat dog",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "task": "Eat Giraff",
+      "userId": 1
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Tom",
+    },
+    {
+      "id": 2,
+      "body": "Neo",
+    }
+  ]
   "profile": {
-    "name": "typicode"
+    "name": "fResult"
   }
 }
