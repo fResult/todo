@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "task": "Eat cat",
+    "completed": false,
+  },
+  {
+    "task": "Eat dog",
+    "completed": true,
+  },
+  {
+    "task": "Eat pig",
+    "completed": false,
+  }
+]
