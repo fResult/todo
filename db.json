@@ -1,6 +1,8 @@
 {
   "todos": [
-    { "id": 1, "task": "Eat cat", "userId": 2 },
+    { 
+      "id": 1, "task": "Eat cat", "userId": 2 
+    },
     { "id": 2, "task": "Eat dog", "userId": 2 },
     { "id": 3, "task": "Eat Giraff", "userId": 1 }
   ],
